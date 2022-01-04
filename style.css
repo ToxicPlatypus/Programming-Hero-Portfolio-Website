@@ -17,6 +17,7 @@ h1{
 }
 
 .half-w{
+    margin-top: 50px;
     width: 50%;
     padding-left:10%;
     padding-right: 10%;
@@ -24,6 +25,8 @@ h1{
 
 .half-w img{
     width:70%;
+    margin-right: 40px;
+    margin-top: 50px;
 }
 
 .Hire-me-link{
